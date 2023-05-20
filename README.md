@@ -1,7 +1,7 @@
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
 Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
-![image](https://github.com/Sasank09/Blog-Application/blob/68e15770a7947e6217d34559e47c33639fdf2cf7/Frontend/public/Screenshot%202023-05-19%20231420.png)
+![image](Frontend/public/Screenshot 2023-05-19 231420.png)
 <br/>
 
 
