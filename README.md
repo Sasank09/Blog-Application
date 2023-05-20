@@ -1,8 +1,9 @@
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
 Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
-![image](Frontend/public/Screenshot 2023-05-19 231420.png)
+<img src="Frontend/public/Screenshot 2023-05-19 231420.png" alt="Alt text" title="Optional title">
 <br/>
+
 
 
 ## Configuration and Setup
