@@ -1,7 +1,9 @@
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
-Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
+Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
+![image](https://github.com/Sasank09/Blog-Application/assets/52834075/be36bd9c-5470-4d22-acd8-e6993ef38b9d)
 <br/>
+
 
 ## Configuration and Setup
 
