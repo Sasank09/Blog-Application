@@ -2,6 +2,8 @@
 <h5  align ="center"> 
 Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <img src="Frontend/public/Screenshot 2023-05-19 231420.png" alt="Alt text" title="Optional title">
+<img src="Frontend/public/Picture2.png" alt="Alt text" title="Optional title">
+<img src="Frontend/public/Picture1.png" alt="Alt text" title="Optional title">
 <br/>
 
 
